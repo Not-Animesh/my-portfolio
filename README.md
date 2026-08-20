@@ -2,7 +2,7 @@
 
 A modern personal portfolio website built with Next.js, TypeScript, and Tailwind CSS to showcase experience, projects, and technical stack.
 
-**Live site:** [animesh.live](https://animesh.live)
+**Live site:** [animesh.live](https://animesh-kumar-portfolio.vercel.app/)
 
 ## About
 
