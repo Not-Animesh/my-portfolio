@@ -2,13 +2,25 @@
 <img alt="Portfolio" src="https://github.com/Animeshkumar/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%" />
 </div>
 
-# Hi — I'm Animesh
+# Hi — I'm Aɳιɱєʂԋ ƙυɱαɾ (call me Ani)
 
-I'm a frontend developer who loves building fast, accessible, and beautiful web experiences. This portfolio showcases my work, the projects I care about, and the tools I use every day. I built this site with Next.js, TypeScript, and a modern UI stack so it performs well and is easy to update.
+I'm a Software Engineer based in New Delhi, India. I’m passionate about crafting polished digital experiences and building things from the ground up. I work across the stack but focus on creating fast, accessible, and beautiful web applications.
 
-- Location: (add your city/country)
-- Role: Frontend Developer / UI Engineer
-- Main focus: TypeScript, Next.js, component-driven UI, performance and accessibility
+- Location: New Delhi, India
+- Role: Full Stack Developer
+- Pronouns / display: Animesh kumar — Ani
+
+
+## Quick bio
+
+I’m Aɳιɱєʂԋ ƙυɱαɾ (call me Ani) — a Software Engineer passionate about crafting polished digital experiences and building things from the ground up. I enjoy taking projects from idea to production, with an emphasis on performance, accessibility, and clean component-driven design.
+
+
+## Contact
+
+- Email: animeshkr2022@gmail.com
+- X (Twitter): https://x.com/not_animesh_
+- LinkedIn: https://www.linkedin.com/in/not-animesh/
 
 
 ## About this repo
@@ -21,7 +33,8 @@ This repository contains my personal portfolio website. It's built with:
 - shadcn/ui and Magic UI for components
 - Framer Motion for subtle animations
 
-The codebase is intentionally component-first and easy to configure — most content lives in a single config file so updates are quick.
+Most content is configurable from `src/data/resume.tsx` and UI components live under `src/components` — see the code for more details.
+
 
 ## What I build
 
@@ -32,14 +45,13 @@ I enjoy building:
 - Small, focused web apps and landing pages
 - Interactive animations and polished micro-interactions
 
-If you're interested in how something works in this site, check the `src/` directory; most content and data live in `src/data` and UI components live under `src/components`.
 
 ## Skills & Technologies
 
 - Primary: TypeScript, React, Next.js
 - Styling: Tailwind CSS, CSS Modules
 - UI: shadcn/ui, Magic UI, component-driven design
-- Tooling: pnpm, Vercel, linting + formatter (ESLint + Prettier)
+- Tooling: pnpm, Vercel, ESLint, Prettier
 
 
 ## Featured Projects
@@ -89,4 +101,4 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want, I can personalize the About section with your real name, location, a short bio, and links (email, Twitter, LinkedIn, etc.). Tell me what details you'd like to include and I'll update the README again.
+More details about my experience, projects, and configuration are in the repository; open `src/data/resume.tsx` to update the public-facing content. If you'd like me to add specific projects, badges, or screenshots to the README, tell me what to include and I'll update it again.
