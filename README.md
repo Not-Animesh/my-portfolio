@@ -1,31 +1,65 @@
 <div align="center">
-<img alt="Portfolio" src="https://github.com/Animeshkumar/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+<img alt="Portfolio" src="https://github.com/Animeshkumar/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%" />
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F%2Fportfolio)
+# Hi — I'm Animesh
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+I'm a frontend developer who loves building fast, accessible, and beautiful web experiences. This portfolio showcases my work, the projects I care about, and the tools I use every day. I built this site with Next.js, TypeScript, and a modern UI stack so it performs well and is easy to update.
 
-# Features
+- Location: (add your city/country)
+- Role: Frontend Developer / UI Engineer
+- Main focus: TypeScript, Next.js, component-driven UI, performance and accessibility
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
 
-# Getting Started Locally
+## About this repo
 
-1. Clone this repository to your local machine:
+This repository contains my personal portfolio website. It's built with:
+
+- Next.js 14
+- TypeScript (primary language)
+- Tailwind CSS
+- shadcn/ui and Magic UI for components
+- Framer Motion for subtle animations
+
+The codebase is intentionally component-first and easy to configure — most content lives in a single config file so updates are quick.
+
+## What I build
+
+I enjoy building:
+
+- Responsive, accessible user interfaces
+- Component libraries and design systems
+- Small, focused web apps and landing pages
+- Interactive animations and polished micro-interactions
+
+If you're interested in how something works in this site, check the `src/` directory; most content and data live in `src/data` and UI components live under `src/components`.
+
+## Skills & Technologies
+
+- Primary: TypeScript, React, Next.js
+- Styling: Tailwind CSS, CSS Modules
+- UI: shadcn/ui, Magic UI, component-driven design
+- Tooling: pnpm, Vercel, linting + formatter (ESLint + Prettier)
+
+
+## Featured Projects
+
+- This portfolio — a lightweight personal site demonstrating components, blog, and project pages.
+- (Add other project names here and short descriptions)
+
+
+## Run locally
+
+1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Not-Animesh/portfolio
+   git clone https://github.com/Not-Animesh/my-portfolio.git
    ```
 
-2. Move to the cloned directory
+2. Enter the project folder:
 
    ```bash
-   cd portfolio
+   cd my-portfolio
    ```
 
 3. Install dependencies:
@@ -34,14 +68,25 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
    pnpm install
    ```
 
-4. Start the local Server:
+4. Start the development server:
 
    ```bash
    pnpm dev
    ```
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+5. Open `http://localhost:3000` and edit `src/data/resume.tsx` (or other files in `src/data`) to personalize content.
 
-# License
 
-Licensed under the [MIT license](https://github.com/Not-Animesh/portfolio/blob/main/LICENSE.md).
+## Deployment
+
+I deploy this site on Vercel. You can connect the repo to Vercel or any static-hosting provider that supports Next.js.
+
+
+## License
+
+This project is licensed under the MIT License.
+
+
+---
+
+If you want, I can personalize the About section with your real name, location, a short bio, and links (email, Twitter, LinkedIn, etc.). Tell me what details you'd like to include and I'll update the README again.
